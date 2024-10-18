@@ -167,4 +167,3 @@ const TicTacToe = () => {
 };
 
 export default TicTacToe;
-// TODO: Make reset Button, with for loop to clear the boxes, change title for winner
